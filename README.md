@@ -2,8 +2,8 @@ Main projects during my master at ENS Paris-Saclay (MVA - Mathématiques, Vision
 
 Attended courses:
 
-- Deep Learning in practice<br>
-- Time Series<br>
+- Deep Learning in practice
+- Time Series
 - Geometric Data<br>
 - Optimization<br>
 - NLP & Graphs<br>
