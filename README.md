@@ -1,6 +1,13 @@
-# MVA projects 
+Main projects during my master at ENS Paris-Saclay (MVA - Mathématiques, Vision, Apprentissage)
 
-The courses I attended were the following :
+Attended courses:
 
-- IA for the environment
-- Theory of Deep Learning
+- Deep Learning in practice<br>
+- Time Series<br>
+- Geometric Data<br>
+- Optimization<br>
+- NLP & Graphs<br>
+- Reinforcement Learning<br>
+- Graphical probabilist models<br>
+- AI & environment<br>
+- AI & safety<br>
