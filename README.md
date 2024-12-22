@@ -1,15 +1,15 @@
-## MVA courses
+# MVA courses
 
 Courses I took during my master's degree in Mathematics Vision and Learning (MVA) at ENS Paris-Saclay
 
-### S2
+## S2
 
 - <sub>Graphical probabilistic models</sub>
 - <sub>Deep Learning in practice</sub>
 - <sub>AI & environment</sub>
 - <sub>S2 CentraleSupélec (double degree)</sub>
 
-### S1
+## S1
 
 - <sub>Time Series</sub>
 - <sub>Geometric Data Analysis</sub>
