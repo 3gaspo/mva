@@ -1,0 +1,3 @@
+[submodule "cs_courses"]
+	path = cs_courses
+	url = https://github.com/3gaspo/cs_courses.git
