@@ -8,3 +8,4 @@ List of course I took during my master's degree in Mathematics Vision and Learni
 - <sub>Graphical probabilistic models</sub>
 - <sub>AI & environment</sub>
 - <sub>AI & safety (Turing Seminar)</sub>
+- Courses at CentraleSupélec (double degree)
