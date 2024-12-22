@@ -1,10 +1,9 @@
 ## MVA courses
-
-List of course I took during my master's degree in Mathematics Vision and Learning (MVA) at ENS Paris-Saclay
+---
+Courses I took during my master's degree in Mathematics Vision and Learning (MVA) at ENS Paris-Saclay
 
 ### S2
 ---
-
 - <sub>Graphical probabilistic models</sub>
 - <sub>Deep Learning in practice</sub>
 - <sub>AI & environment</sub>
@@ -12,7 +11,6 @@ List of course I took during my master's degree in Mathematics Vision and Learni
 
 ### S1
 ---
-
 - <sub>Time Series</sub>
 - <sub>Geometric Data Analysis</sub>
 - <sub>Convex Optimization</sub>
